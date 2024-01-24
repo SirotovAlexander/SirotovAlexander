@@ -1,5 +1,5 @@
 
-<p align="center"># 🏠 Hello👋, my name is Alexander! Sirotov Alexander</p>
+<p align="center"># 🏠 Hello👋, my name is Sirotov Alexander</p>
 ### I love work 24/7, reade and make code👽
 
 
